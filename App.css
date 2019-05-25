@@ -1,0 +1,22 @@
+.App {
+    display: flex;
+    margin: 40px;
+    min-height: calc(100vh - 80px);
+    align-items:flex-start;
+  }
+  .left{
+    background-color:darkslategray;
+    color:azure;
+    flex:1;
+    max-width:486px;
+
+    
+  }
+  .right{
+    background-color:wheat;
+    color:firebrick;
+    flex:1;
+    max-width:486px;
+  }
+
+  

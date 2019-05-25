@@ -1,0 +1,8 @@
+.top{
+    margin: 40px;
+    height: calc(100vh - 80px);
+    flex-basis:1;
+    color:black;
+    background-color:white;    
+
+}
