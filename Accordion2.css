@@ -1,0 +1,12 @@
+ul{
+    margin:20px;
+    height: 100vh -110px;
+    line-height:30px;
+    border: 1px solid grey;
+    list-style: none;
+    text-align:center;
+}
+
+li{
+   padding:20px;
+}
